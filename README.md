@@ -1,3 +1,3 @@
 # NewspaperWebsite
-This is Basic Newspaper Website made using Django__
+This is Basic Newspaper Website made using Django <br />
 Users can create their account and post articles and also write comments.
