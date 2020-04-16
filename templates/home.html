@@ -3,9 +3,9 @@
 {% block title %}Home{% endblock title %}
 
 {% block content %}
-<div class="jumbotron" >
+<div class="jumbotron text-centre" >
     <h1 class="display-4">Newspaper App</h1>
-    <p class="lead">A Newspaper website built with Django by anonshubh.</p>
+    <p class="lead">A Sample Newspaper website built with Django.</p>
     {% if user.is_authenticated %}
     Hi {{user.username }}!
     <p class="lead">
